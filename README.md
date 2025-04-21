@@ -15,10 +15,4 @@ Clean and prepare a raw dataset by handling:
 Dataset: **Netflix Movies and TV Shows** from Kaggle  
 [Original Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
----
-
-## 🧼 Step-by-Step Cleaning Process
-
-### 1. Load the Dataset
-```python
-df = pd.read_csv("netflix_titles.csv")
+------
